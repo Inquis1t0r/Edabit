@@ -1,5 +1,5 @@
 public class Challenge {
 	public static int howManySeconds(int hours) {
-		return ‭hours * 3600;‬
+		return hours * 3600;
   }
 }
