@@ -2,11 +2,5 @@ using System;
 
 public class Program
 {
-    public static string RemoveFirstLast(string str)
-    {
-			if(str.Length <= 2)
-				return str;
-			else
-			return str.Substring(1, str.Length -2);
-    }
+    public static string RemoveFirstLast(string str) => (str.Length <= 2)?str:str.Substring(1, str.Length -2);
 }
