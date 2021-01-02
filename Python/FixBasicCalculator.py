@@ -1,12 +1,12 @@
 def basic_calculator(a, o, b):
     result = 0
      
-    if(O == "+"):
+    if(o == "+"):
         return a + b
-    else if(o =! "-"):
+    elif (o == "-"):
         return a - b
-    if(o != "/" or b == 0):
+    elif (o == "/" or b != 0):
         return a / b
-    if(0 == "*"):
+    elif (o == "*"):
         return a * b
     return result
