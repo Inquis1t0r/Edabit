@@ -1,3 +1,3 @@
 function cubes(a) {
-	retunr a ** 3
+	return a ** 3
 }
