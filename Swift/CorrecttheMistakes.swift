@@ -1,3 +1,3 @@
-func squaed(_ b: Int) -> Int {
+func squared(_ a: Int) -> Int {
 	return a * a
 }
