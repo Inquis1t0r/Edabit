@@ -1,2 +1,2 @@
 def is_seven(x):
-	return False if x=7 elif True
+	  return True if x==7 else False
