@@ -1,3 +1,3 @@
-def squaed(b)
+def squared(a)
 	return a * a
 end
