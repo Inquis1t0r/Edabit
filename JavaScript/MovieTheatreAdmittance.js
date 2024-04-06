@@ -1,0 +1,3 @@
+function acceptIntoMovie(age, isSupervised) {
+	
+}
