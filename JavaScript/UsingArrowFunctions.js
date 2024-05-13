@@ -1,2 +1,2 @@
 // create your arrow function below
-arrowFunc
+arrowFunc = (param) => param;
