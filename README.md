@@ -1,5 +1,5 @@
 # Edabit
 My solutions for edabit.com challenges 
 
-//TODO: 
+TODO: 
 - [ ] Table + better readme + plans and reasons 
