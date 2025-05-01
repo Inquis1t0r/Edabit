@@ -1,3 +1,4 @@
+//TODO!!!
 function bitwiseAND(n1, n2) {
 	
 }
